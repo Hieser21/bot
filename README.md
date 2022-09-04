@@ -1,0 +1,1 @@
+First attempt at coding discord bot
